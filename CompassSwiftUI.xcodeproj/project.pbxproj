@@ -11,6 +11,7 @@
 		958B0358255E9EAB005B4538 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958B0357255E9EAB005B4538 /* ContentView.swift */; };
 		958B035A255E9EAC005B4538 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 958B0359255E9EAC005B4538 /* Assets.xcassets */; };
 		958B035D255E9EAC005B4538 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 958B035C255E9EAC005B4538 /* Preview Assets.xcassets */; };
+		958B0366255E9ED5005B4538 /* CompassHeading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958B0365255E9ED5005B4538 /* CompassHeading.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		958B0359255E9EAC005B4538 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		958B035C255E9EAC005B4538 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		958B035E255E9EAC005B4538 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		958B0365255E9ED5005B4538 /* CompassHeading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompassHeading.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				958B0355255E9EAB005B4538 /* CompassSwiftUIApp.swift */,
 				958B0357255E9EAB005B4538 /* ContentView.swift */,
+				958B0365255E9ED5005B4538 /* CompassHeading.swift */,
 				958B0359255E9EAC005B4538 /* Assets.xcassets */,
 				958B035E255E9EAC005B4538 /* Info.plist */,
 				958B035B255E9EAC005B4538 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				958B0366255E9ED5005B4538 /* CompassHeading.swift in Sources */,
 				958B0358255E9EAB005B4538 /* ContentView.swift in Sources */,
 				958B0356255E9EAB005B4538 /* CompassSwiftUIApp.swift in Sources */,
 			);
